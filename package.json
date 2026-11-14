@@ -13,7 +13,8 @@
   "files": [
     "Theology.js",
     "Theology.d.ts",
-    "Theology.js.map"
+    "Theology.js.map",
+    "Theology.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
